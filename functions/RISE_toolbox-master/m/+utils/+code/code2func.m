@@ -1,0 +1,4 @@
+%  INTERNAL FUNCTION
+% 
+%  See also: UTILS.CODE.CODE2VECTOR
+%
